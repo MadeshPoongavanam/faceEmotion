@@ -1,0 +1,8 @@
+Data From Here
+
+https://www.edlitera.com/en/blog/posts/emotion-detection-in-images#:~:text=You%20pass%20an%20image%20to,percentages%20between%200%20and%201.
+
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/j6MtKfp/a-1.png" alt="a-1" border="0"></a>
+<a href="https://ibb.co/TqrLhVy"><img src="https://i.ibb.co/WpstKbC/Elizabeth-and-Richard.jpg" alt="Elizabeth-and-Richard" border="0"></a>
